@@ -7,7 +7,7 @@
 An application migration and linking tool designed specifically for macOS.
 Easily migrate large applications to external storage while maintaining seamless system functionality.
 
-[Simplified Chinese](README_CN.md)
+[简体中文](README_CN.md)
 
 </div>
 
