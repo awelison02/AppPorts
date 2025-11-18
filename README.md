@@ -67,7 +67,7 @@ If you are a developer and wish to build the project yourself:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/wzh4869/AppPorts.git](https://github.com/wzh4869/AppPorts.git)
+   git clone https://github.com/wzh4869/AppPorts.git
     ```
 2.  Open the project with **Xcode**.
 3.  Compile and Run.
@@ -84,8 +84,8 @@ This project is open-source under the [MIT License](LICENSE).
 <br>
 <div align="center">
 
-Created by **Shimoko**
+Created by **Wzh4869**
 
-[Personal Website](https://www.shimoko.com) • [GitHub](https://github.com/wzh4869/macappports)
+[Personal Website](https://www.shimoko.com) • [GitHub](https://github.com/wzh4869/AppPorts)
 
 </div>
