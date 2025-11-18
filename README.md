@@ -7,7 +7,7 @@
 A macOS utility tool designed to migrate applications to external storage seamlessly.
 Free up your Mac's local space while keeping apps running as normal.
 
-[简体中文](README.md) | [English](README_EN.md)
+[English](README.md) | [简体中文](README_CD.md)
 
 </div>
 
