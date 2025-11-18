@@ -67,7 +67,7 @@ Mac 的内置存储空间寸土寸金。**AppPorts** 允许您一键将 `/Applic
 
 1.  克隆仓库：
     ```bash
-    git clone [https://github.com/wzh4869/AppPorts.git](https://github.com/wzh4869/AppPorts.git)
+    git clone https://github.com/wzh4869/AppPorts.git
     ```
 2.  使用 **Xcode** 打开项目。
 3.  编译并运行。
