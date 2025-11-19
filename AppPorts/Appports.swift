@@ -1,3 +1,10 @@
+//
+//  AppPorts.swift
+//  AppPorts
+//
+//  Created by shimoko.com on 2025/11/19.
+//
+
 import SwiftUI
 
 @main

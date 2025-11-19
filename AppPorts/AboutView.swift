@@ -1,6 +1,6 @@
 //
 //  AboutView.swift
-//  AppPort
+//  AppPorts
 //
 //  Created by shimoko.com on 2025/11/19.
 //
